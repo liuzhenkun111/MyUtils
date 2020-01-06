@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/main/java=utf-8
+encoding//src/main/java/com/lzk/common/utils/DateUtil.java=UTF-8
+encoding//src/main/java/com/lzk/common/utils/FileUtil.java=UTF-8
+encoding//src/main/java/com/lzk/common/utils/GeoUtils.java=UTF-8
+encoding//src/main/java/com/lzk/common/utils/Md5Util.java=UTF-8
+encoding//src/main/java/com/lzk/common/utils/RandomUtil.java=UTF-8
+encoding//src/main/java/com/lzk/common/utils/StreamUtil.java=UTF-8
+encoding//src/main/java/com/lzk/common/utils/StringUtil.java=UTF-8
+encoding//src/test/java=utf-8
+encoding/<project>=UTF-8
